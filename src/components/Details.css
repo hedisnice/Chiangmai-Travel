@@ -1,0 +1,23 @@
+.container h2 {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-size: 30px;
+  color: #22577a;
+}
+.blog-image {
+  width: 700px;
+  height: 500px;
+}
+.blog-detail {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.blog-detail strong {
+  font-size: 20px;
+  color: #032b43;
+}
+.blog-detail p {
+  font-size: 20px;
+  color: #22577a;
+  padding-top: 15px;
+}
